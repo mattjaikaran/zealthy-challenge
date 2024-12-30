@@ -1,0 +1,8 @@
+/server/env
+/client/node_modules
+/client/dist
+
+server/api/__pycache__/
+server/core/__pycache__/
+
+/__pycache__/
